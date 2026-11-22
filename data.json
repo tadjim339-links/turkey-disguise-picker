@@ -1,0 +1,9 @@
+[
+  {"name":"Minion","minutes":15,"paper":["yellow","blue","grey"],"extras":["black strap"]},
+  {"name":"The Grinch","minutes":25,"paper":["green","red"],"extras":["cotton ball"]},
+  {"name":"Elsa","minutes":30,"paper":["blue","white"],"extras":["silver pen"]},
+  {"name":"Minecraft character","minutes":30,"paper":["graph paper"],"extras":["markers","ruler"]},
+  {"name":"Batman","minutes":30,"paper":["black"],"extras":["yellow scrap"]},
+  {"name":"Sonic","minutes":40,"paper":["blue","red","white"],"extras":[]},
+  {"name":"Spider-Man","minutes":40,"paper":["red","white"],"extras":["black marker"]}
+]
